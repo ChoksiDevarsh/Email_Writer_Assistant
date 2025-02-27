@@ -1,2 +1,8 @@
-# Email_Writer_Assistant
-I developed a full-stack web app and browser extension that automate email responses using Google’s Gemini API. Built with Spring Boot and React.js, it handles API interactions, authentication, and dynamic email formatting. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
